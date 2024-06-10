@@ -44,6 +44,8 @@
 
 ### 另类使用方法
 
+请下载云盘压缩包获取全部相关软件
+
 安卓端：配合 [Tasker](Apeiria_Sounds/tools/Tasker.apk)/使用
 
 参考文献：[Tasker安装第一天的教程](https://taskerm.com/2019/05/03/what-to-do-after-install-tasker)
